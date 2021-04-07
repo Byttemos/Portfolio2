@@ -83,7 +83,7 @@ public class Main {
         thisGraph.newEdge(H,D,58);
         thisGraph.newEdge(J,K,14);
         thisGraph.printGraph();
-
+        thisGraph.MSTPrims();
 
 
 

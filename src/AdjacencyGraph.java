@@ -29,6 +29,14 @@ public class AdjacencyGraph {
             }
             System.out.println(" ");
         }
+
+    }
+
+    public void MSTPrims(){
+
+        for (int i=0; i<=15; i++){
+            System.out.println("diller");
+        }
     }
     /*
     public void MSTPrims(){
